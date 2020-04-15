@@ -1,12 +1,18 @@
 # Stages of [backend course](https://github.com/kottans/backend):
 
-1. [Git, GitHub basics, writing good commit messages](#git-basics) ([source](https://github.com/kottans/backend/blob/master/tasks/git-intro.md))
-2. [Linux, command line basics](#linux-basics) ([source](https://github.com/kottans/backend/blob/master/tasks/unix-shell.md))
-3. What computer memory is and how to properly deal with it
-4. Network basics
-5. Program Input/Output interaction. Basics of file system management
-6. JS or Golang programming fundamentals
-7. Relational Databases, SQL
+1.  [Git Basics](https://github.com/kottans/backend/blob/master/tasks/git-intro.md)
+1.  [Unix Shell](https://github.com/kottans/backend/blob/master/tasks/unix-shell.md)
+1.  [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/backend/blob/master/tasks/git-collaboration.md)
+1.  [Language-specific Topics: Part I](https://github.com/kottans/backend/blob/master/tasks/language_basics.md) :abc:
+1.  [Memory Management](https://github.com/kottans/backend/blob/master/tasks/memory-management.md)
+1.  [TCP, UDP, Network](https://github.com/kottans/backend/blob/master/tasks/network.md) :abc:
+1.  [HTTP & HTTPs](https://github.com/kottans/backend/blob/master/tasks/http.md)
+1.  [Design Patterns: Intro](https://github.com/kottans/backend/blob/master/tasks/patterns.md)
+1.  [Data Structures](https://github.com/kottans/backend/blob/master/tasks/data-structures.md) :abc:
+1.  [File System](https://github.com/kottans/backend/blob/master/tasks/file_system.md)
+1.  [Runtime, Ecosystem and I/O](https://github.com/kottans/backend/blob/master/tasks/runtime_and_ecosystem.md) :abc:
+1.  [Databases](https://github.com/kottans/backend/blob/master/tasks/databases_basic.md)
+1.  [Language-specific Topics: Part II](https://github.com/kottans/backend/blob/master/tasks/js_basics_2.md) :abc:
 
 ## Brief summary
 
